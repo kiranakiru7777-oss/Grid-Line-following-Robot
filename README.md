@@ -79,6 +79,6 @@ Robotics & AI Engineering Student
 
 ## 📷 Project Images
 
-![Robot](images/robot.jpeg)
+![Robot](images/robot.jpg)
 
-![Robot](images/robot2.jpeg)
+![Robot](images/robot1.jpeg)
