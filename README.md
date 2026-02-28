@@ -85,4 +85,4 @@ Robotics & AI Engineering Student
 
 ## 🎥 Demo Video
 
-[Download / Watch Project Demo](video/robot.mp4)
+[Watch Project Demo](video.mp4)
