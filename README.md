@@ -83,6 +83,6 @@ Robotics & AI Engineering Student
 
 ![Robot](images/robot1.jpeg)
 
-## 🎥 Demo Video
+## 🎥 Demo Video:
 
 [Watch Project Demo](video/robo.mp4)
